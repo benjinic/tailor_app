@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "194192825554",
+    "firebase_url": "https://suittailorapp-default-rtdb.firebaseio.com",
+    "project_id": "suittailorapp",
+    "storage_bucket": "suittailorapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194192825554:android:fc92f52e393b47a49b210b",
+        "android_client_info": {
+          "package_name": "com.example.tailor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOkyL8Tq5lFMH5DQ0TsM3S-7LBZG8m1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
