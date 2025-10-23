@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:tailor_app/models/customer.dart';
+import 'package:intl/intl.dart'; // Import the intl package
 // 使用 'app_order' 前綴來區分我們的 Order 模型
 import 'package:tailor_app/models/order.dart' as app_order;
 import 'package:tailor_app/providers/cart_provider.dart';
